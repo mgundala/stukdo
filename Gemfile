@@ -56,3 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 #link from github for inserting font awesome
 gem 'font-awesome-rails'
+#Formular helper von plataforma auf github
+gem 'simple_form'
