@@ -58,3 +58,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'font-awesome-rails'
 #Formular helper von plataforma auf github
 gem 'simple_form'
+#Sign in Authenfizierung von plataforma auf github
+gem 'devise'
+#hinweis im terminal to install für device:install
+gem 'therubyracer'
